@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^18.0.0",
+    "googleapis": "^39.1.0",
     "formidable": "^1.2.1"
   }
 }
